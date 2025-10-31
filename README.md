@@ -27,12 +27,15 @@ cd multimodal-virtual-assistant
 Installer les dépendances :
 
 
+
 npm install
 Lancer l'application en mode développement :
 
 
+
 npm run dev
 Ouvrir http://localhost:5173 dans votre navigateur.
+
 
 Utilisation
 Chat : Tapez vos messages dans l'interface de chat
@@ -44,6 +47,7 @@ Gestes Supportés
 ✌️ Victoire
 ✋ Stop
 Structure du Projet
+
 
 src/
 ├── components/
@@ -64,6 +68,8 @@ Safari
 Edge
 Contribution
 Les contributions sont les bienvenues ! Veuillez créer une issue ou une pull request.
+
+
 <img width="3455" height="1967" alt="image" src="https://github.com/user-attachments/assets/b430deab-4525-4a76-a8d3-b92891e3b69a" />
 <img width="3455" height="1845" alt="image" src="https://github.com/user-attachments/assets/3a49e4b1-6472-41b2-890c-1894ada4f0f5" />
 <img width="3455" height="1965" alt="image" src="https://github.com/user-attachments/assets/aeaa4dac-a4de-4a95-a0df-6672106b83c0" />
